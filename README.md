@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Store E-commerce Platform
 
 <p align="center">
@@ -126,3 +127,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
 
 Project Link: [https://github.com/yourusername/store-project](https://github.com/yourusername/store-project)
+=======
+# Storex-E-Commerce
+>>>>>>> 49cf197fe0cfb43f53c0f0b0700676d6e11af114
