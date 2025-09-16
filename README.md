@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Store E-commerce Platform
 
 <p align="center">
@@ -90,43 +90,5 @@ Store is a modern e-commerce platform built with Laravel 10, designed to provide
    php artisan serve
    ```
 
-10. **Access the application**
-    Open your browser and visit: [http://localhost:8000](http://localhost:8000)
 
-## 🧪 Testing
-
-Run the tests with:
-
-```bash
-php artisan test
-```
-
-## 🛠️ Built With
-
-- [Laravel](https://laravel.com) - The PHP Framework For Web Artisans
-- [Tailwind CSS](https://tailwindcss.com) - A utility-first CSS framework
-- [Alpine.js](https://alpinejs.dev) - A rugged, minimal framework for composing JavaScript behavior
-- [Laravel Breeze](https://laravel.com/docs/starter-kits) - Authentication scaffolding
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📧 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/store-project](https://github.com/yourusername/store-project)
-=======
-# Storex-E-Commerce
 >>>>>>> 49cf197fe0cfb43f53c0f0b0700676d6e11af114
